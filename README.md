@@ -35,4 +35,4 @@ Listo, con eso podra ser suficiente para tener tu entorno Linux configurado...
 
 > [Visitanos en DevBlogs](https://metr1cka.github.io "Pagina web")
 
-> [Mas repositorios](https://github.com/METR1CKA "Mi perfil")
+> [Mas repositorios](https://github.com/METR1CKA?tab=repositories "Mi perfil")
