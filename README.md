@@ -4,6 +4,7 @@ Script escrito por mi en `bash` para configurar una distribucion de Linux basada
 
 # Requisitos
 
-* Linux
-  * Basado en Debian
-* Recien instalado
+* Linux (Basado en Debian)
+
+# Instrucciones
+
