@@ -2,12 +2,12 @@
 
 Script escrito por mi en `bash` para configurar una distribucion de Linux basada en `Debian`
 
-# Requisitos
+## Requisitos
 
 * Linux (Basado en Debian)
 * Conocimiento basico de Linux
 
-# Instrucciones
+## Instrucciones
 
 1. Darle permisos de ejecucion al archivo
 
