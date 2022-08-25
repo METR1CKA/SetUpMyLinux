@@ -29,8 +29,6 @@ $ ./setup
 
 4. Reiniciar el sistema
 
----
-
 Listo, con eso podra ser suficiente para tener tu entorno Linux configurado...
 
 # **METR1CKA**
