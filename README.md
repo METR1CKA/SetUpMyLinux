@@ -1,4 +1,4 @@
-# Set Up My Linux
+# Set Up My Linux Debian
 
 Script escrito por mi en `bash` para configurar una distribucion de Linux basada en `Debian`
 
