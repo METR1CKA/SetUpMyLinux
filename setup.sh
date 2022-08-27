@@ -61,6 +61,7 @@ function configs_utils(){
   sleep 1
   echo -e "\n${greenColour}[+] Añadiendo configuraciones${endColour}\n"
   sleep 1
+  echo " " >> /etc/sysctl.conf
   echo 'vm.swappiness=40' >> /etc/sysctl.conf
 }
 
